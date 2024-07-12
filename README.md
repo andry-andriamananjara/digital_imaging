@@ -1,1 +1,1 @@
-# This is a project of imaging measurement implementation based on MATLAB
+# This is a coin estimation project, an imaging measurement implementation based on MATLAB
